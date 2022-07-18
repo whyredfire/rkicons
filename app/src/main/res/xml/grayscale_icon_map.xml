@@ -34,6 +34,7 @@
     <icon drawable="@drawable/camera" package="com.android.camera2" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.mgc" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.android.MGC" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.MGC.not.stable" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.apps.cameralite" name="Camera" />
     <icon drawable="@drawable/gcam" package="com.google.android.GoogleCameraEng" name="gcam" />
@@ -67,6 +68,7 @@
     <icon drawable="@drawable/nokia_camera" package="com.hmdglobal.camera" name="Nokia Camera" />
     <icon drawable="@drawable/nokia_camera" package="com.hmdglobal.app.camera" name="Nokia Camera" />
     <icon drawable="@drawable/nokia_camera" package="com.evenwell.camera2" name="Nokia Camera" />
+    <icon drawable="@drawable/camera_nothing" package="com.nothing.camera" name="Nothing Camera" />
     <icon drawable="@drawable/samsungcalendar" package="com.samsung.android.calendar" name="Samsung Calendar" />
     <icon drawable="@drawable/catogram" package="ua.itaysonlab.messenger" name="Catogram" />
     <icon drawable="@drawable/citymapper" package="com.citymapper.app.release" name="Citymapper" />
@@ -274,6 +276,7 @@
     <icon drawable="@drawable/rabo_wallet" package="nl.rabowallet" name="Rabo Wallet" />
     <icon drawable="@drawable/rabobank" package="nl.rabomobiel" name="rabobank" />
     <icon drawable="@drawable/recorder" package="com.google.android.apps.recorder" name="Recorder" />
+    <icon drawable="@drawable/nothing_recorder" package="com.google.android.apps.recorder" name="Nothing Recorder" />
     <icon drawable="@drawable/asusrecorder" package="com.asus.soundrecorder" name="Asus Recorder" />
     <icon drawable="@drawable/reddit" package="com.reddit.frontpage" name="Reddit" />
     <icon drawable="@drawable/relay" package="free.reddit.news" name="Relay" />
@@ -406,6 +409,8 @@
     <icon drawable="@drawable/wifiman" package="com.ubnt.usurvey" name="WiFiman" />
     <icon drawable="@drawable/wordweb" package="com.wordwebsoftware.android.wordweb" name="WordWeb" />
     <icon drawable="@drawable/xda" package="com.xda.labs" name="XDA" />
+    <icon drawable="@drawable/keepass2android" package="keepass2android.keepass2android" name="Keepass2Android " />
+    <icon drawable="@drawable/keepass2android" package="keepass2android.keepass2android_nonet" name="Keepass2Android " />
     <icon drawable="@drawable/xplayer" package="video.player.videoplayer" name="Xplayer" />
     <icon drawable="@drawable/yandex_mail" package="ru.yandex.mail" name="Mail" />
     <icon drawable="@drawable/yeelight" package="com.yeelight.cherry" name="Yeelight" />
@@ -414,13 +419,14 @@
     <icon drawable="@drawable/youtube" package="com.google.android.youtube" name="YouTube" />
     <icon drawable="@drawable/youtube_tv" package="com.google.android.apps.youtube.unplugged" name="YouTube TV" />
     <icon drawable="@drawable/youtube_vanced" package="com.vanced.android.youtube" name="YouTube Vanced" />
-    <icon drawable="@drawable/youtube" package="com.revanced.android.youtube" name="YouTube" />
+    <icon drawable="@drawable/youtube" package="app.revanced.android.youtube" name="YouTube" />
     <icon drawable="@drawable/youtube_vanced_manager" package="com.vanced.manager" name="YouTube Vanced Manager" />
     <icon drawable="@drawable/retro_music" package="code.name.monkey.retromusic" name="Retro Music" />
     <icon drawable="@drawable/retro_music" package="io.github.muntashirakon.Music" name="Metro" />
     <icon drawable="@drawable/auxio" package="org.oxycblt.auxio" name="Auxio" />
     <icon drawable="@drawable/syncthing" package="com.nutomic.syncthingandroid" name="Syncthing" />
     <icon drawable="@drawable/camera" package="net.sourceforge.opencamera" name="Open Camera" />
+    <icon drawable="@drawable/camera" package="app.grapheneos.camera.play" name="Camera" />
     <icon drawable="@drawable/disneyplus" package="com.disney.disneyplus" name="Disney+" />
     <icon drawable="@drawable/picsart" package="com.picsart.studio" name="Picsart" />
     <icon drawable="@drawable/protonvpn" package="ch.protonvpn.android" name="ProtonVPN" />
@@ -519,4 +525,10 @@
     <icon drawable="@drawable/paytm" package="net.one97.paytm" name="Paytm" />
     <icon drawable="@drawable/mtmanager" package="bin.mt.plus" name="MT Manager" />
     <icon drawable="@drawable/mtmanager" package="bin.mt.plus.canary" name="MT Manager" />
+    <icon drawable="@drawable/scoop" package="taco.scoop" name="Scoop" />
+    <icon drawable="@drawable/scoop" package="xyz.paphonb.scoop" name="Scoop" />
+    <icon drawable="@drawable/mlmanager" package="com.javiersantos.mlmanager" name="Ml Manager" />
+    <icon drawable="@drawable/appmanager" package="io.github.muntashirakon.AppManager" name="App Manager" />
+    <icon drawable="@drawable/abstruct" package="com.hampusolsson.abstruct" name="Abstruct" />
+    <icon drawable="@drawable/mdgram" package="org.telegram.mdgram" name="MDGramYou" />
 </icons>
