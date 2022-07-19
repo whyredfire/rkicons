@@ -531,4 +531,6 @@
     <icon drawable="@drawable/appmanager" package="io.github.muntashirakon.AppManager" name="App Manager" />
     <icon drawable="@drawable/abstruct" package="com.hampusolsson.abstruct" name="Abstruct" />
     <icon drawable="@drawable/mdgram" package="org.telegram.mdgram" name="MDGramYou" />
+    <icon drawable="@drawable/cloudstream" package="com.lagradost.cloudstream3" name="Cloudstream" />
+    <icon drawable="@drawable/cloudstream" package="com.lagradost.cloudstream3.prerelease" name="Cloudstream Beta" />
 </icons>
