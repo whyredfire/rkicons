@@ -533,4 +533,5 @@
     <icon drawable="@drawable/mdgram" package="org.telegram.mdgram" name="MDGramYou" />
     <icon drawable="@drawable/cloudstream" package="com.lagradost.cloudstream3" name="Cloudstream" />
     <icon drawable="@drawable/cloudstream" package="com.lagradost.cloudstream3.prerelease" name="Cloudstream Beta" />
+    <icon drawable="@drawable/libretorrent" package="org.proninyaroslv.libretorrent" name="LibreTorrent" />
 </icons>
