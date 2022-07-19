@@ -535,4 +535,5 @@
     <icon drawable="@drawable/cloudstream" package="com.lagradost.cloudstream3.prerelease" name="Cloudstream Beta" />
     <icon drawable="@drawable/libretorrent" package="org.proninyaroslv.libretorrent" name="LibreTorrent" />
     <icon drawable="@drawable/inpost" package="pl.inpost.inmobile" name="InPost Mobile" />
+    <icon drawable="@drawable/xkom" package="pl.xkom" name="x-kom" />
 </icons>
