@@ -546,4 +546,5 @@
     <icon drawable="@drawable/steam" package="com.valvesoftware.android.steam.community" name="Steam" />
     <icon drawable="@drawable/patreon" package="com.patreon.android" name="Patreon" />
     <icon drawable="@drawable/bereal" package="com.bereal.ft" name="BeReal" />
+    <icon drawable="@drawable/apkextractor" package="com.ext.ui" name="Apk Extractor" />
 </icons>
