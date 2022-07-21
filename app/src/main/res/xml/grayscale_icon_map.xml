@@ -545,4 +545,5 @@
     <icon drawable="@drawable/kustom" package="org.kustom.apkmaker" name="KAPK" />
     <icon drawable="@drawable/steam" package="com.valvesoftware.android.steam.community" name="Steam" />
     <icon drawable="@drawable/patreon" package="com.patreon.android" name="Patreon" />
+    <icon drawable="@drawable/bereal" package="com.bereal.ft" name="BeReal" />
 </icons>
