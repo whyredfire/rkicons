@@ -553,4 +553,5 @@
     <icon drawable="@drawable/deviceinfohw" package="ru.andr7e.deviceinfohw" name="Device Info HW" />
     <icon drawable="@drawable/pokemongo" package="com.nianticlabs.pokemongo" name="Pokémon GO" />
     <icon drawable="@drawable/sudoku" package="ee.dustland.android.dustlandsudoku" name="Sudoku" />
+    <icon drawable="@drawable/smartlife" package="com.tuya.smartlife" name="Smart Life" />
 </icons>
