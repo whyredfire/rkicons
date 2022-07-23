@@ -555,4 +555,5 @@
     <icon drawable="@drawable/sudoku" package="ee.dustland.android.dustlandsudoku" name="Sudoku" />
     <icon drawable="@drawable/smartlife" package="com.tuya.smartlife" name="Smart Life" />
     <icon drawable="@drawable/oledbuddy" package="me.mikecroall.oledbuddy" name="OLEDBuddy" />
+    <icon drawable="@drawable/realmelink" package="com.realme.link" name="Realme Link" />
 </icons>
