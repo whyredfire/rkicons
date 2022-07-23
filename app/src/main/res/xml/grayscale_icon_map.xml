@@ -549,4 +549,5 @@
     <icon drawable="@drawable/apkextractor" package="com.ext.ui" name="Apk Extractor" />
     <icon drawable="@drawable/artflow" package="com.bytestorm.artflow" name="ArtFlow" />
     <icon drawable="@drawable/lightroom" package="com.adobe.lrmobile" name="Lightroom" />
+    <icon drawable="@drawable/deviceinfohw" package="ru.andr7e.deviceinfohw" name="Device Info HW" />
 </icons>
