@@ -550,4 +550,5 @@
     <icon drawable="@drawable/artflow" package="com.bytestorm.artflow" name="ArtFlow" />
     <icon drawable="@drawable/lightroom" package="com.adobe.lrmobile" name="Lightroom" />
     <icon drawable="@drawable/deviceinfohw" package="ru.andr7e.deviceinfohw" name="Device Info HW" />
+    <icon drawable="@drawable/pokemongo" package="com.nianticlabs.pokemongo" name="Pokémon GO" />
 </icons>
