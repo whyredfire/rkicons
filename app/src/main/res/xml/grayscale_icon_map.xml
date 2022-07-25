@@ -555,4 +555,7 @@
     <icon drawable="@drawable/smartlife" package="com.tuya.smartlife" name="Smart Life" />
     <icon drawable="@drawable/oledbuddy" package="me.mikecroall.oledbuddy" name="OLEDBuddy" />
     <icon drawable="@drawable/realmelink" package="com.realme.link" name="Realme Link" />
+    <icon drawable="@drawable/kustompro" package="org.kustom.widget.pro" name="KWGT Pro" />
+    <icon drawable="@drawable/kustompro" package="org.kustom.wallpaper.pro" name="KLWP Pro" />
+    <icon drawable="@drawable/kustompro" package="org.kustom.lockscreen.pro" name="KLCK Pro" />
 </icons>
