@@ -540,7 +540,6 @@
     <icon drawable="@drawable/kustom" package="org.kustom.widget" name="KWGT" />
     <icon drawable="@drawable/kustom" package="org.kustom.wallpaper" name="KLWP" />
     <icon drawable="@drawable/kustom" package="org.kustom.lockscreen" name="KLCK" />
-    <icon drawable="@drawable/kustom" package="org.kustom.lockscreen" name="KLCK" />
     <icon drawable="@drawable/kustom" package="org.kustom.weather" name="Kustom Weather Plugin" />
     <icon drawable="@drawable/kustom" package="org.kustom.unread" name="Kustom Unread Plugin" />
     <icon drawable="@drawable/kustom" package="org.kustom.apkmaker" name="KAPK" />
