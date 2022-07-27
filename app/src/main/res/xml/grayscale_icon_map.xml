@@ -32,7 +32,7 @@
     <icon drawable="@drawable/camera" package="app.grapheneos.camera" name="Camera" />
     <icon drawable="@drawable/asuscamera" package="com.asus.camera" name="Asus camera" />
     <icon drawable="@drawable/camera" package="com.android.camera2" name="Camera" />
-    <icon drawable="@drawable/camera" package="com.android.camera" name="Camera" />
+    <icon drawable="@drawable/aosp_cam" package="com.android.camera" name="Camera aosp" />
     <icon drawable="@drawable/camera" package="com.android.mgc" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.MGC" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.MGC.not.stable" name="Camera" />
@@ -48,8 +48,8 @@
     <icon drawable="@drawable/camera" package="com.honor.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.huawei.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.motorola.cameraone" name="Camera" />
-    <icon drawable="@drawable/camera" package="com.oneplus.camera" name="Camera" />
-    <icon drawable="@drawable/camera" package="com.oplus.camera" name="Camera" />
+    <icon drawable="@drawable/oneplus_cam" package="com.oneplus.camera" name="Oneplus Camera" />
+    <icon drawable="@drawable/oneplus_cam" package="com.oplus.camera" name="Oneplus Camera" />
     <icon drawable="@drawable/camera" package="com.oppo.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.sec.android.app.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.transsion.camera" name="Camera" />
@@ -60,7 +60,7 @@
     <icon drawable="@drawable/camera" package="org.lineageos.snap" name="Camera" />
     <icon drawable="@drawable/razer_camera" package="com.razer.camera" name="Razer Camera" />
     <icon drawable="@drawable/razer_camera" package="com.razerzone.camera" name="Razer Camera" />
-    <icon drawable="@drawable/camera_moto" package="com.motorola.camera2" name="Moto Camera2" />
+    <icon drawable="@drawable/camera_moto2" package="com.motorola.camera2" name="Moto Camera2" />
     <icon drawable="@drawable/camera_moto3" package="com.motorola.camera3" name="Moto Camera3" />
     <icon drawable="@drawable/camera_moto" package="com.motorola.camera" name="Moto Camera" />
     <icon drawable="@drawable/camera_moto" package="com.myos.camera" name="Moto Camera" />
@@ -118,12 +118,13 @@
     <icon drawable="@drawable/files" package="com.coloros.files" name="Files" />
     <icon drawable="@drawable/files" package="me.zhanghai.android.files" name="Files" />
     <icon drawable="@drawable/files" package="com.google.android.documentsui" name="Files" />
-    <icon drawable="@drawable/asusfiles" package="com.asus.filemanager" name="Asus Files" />
+    <icon drawable="@drawable/files" package="com.asus.filemanager" name="Asus Files" />
     <icon drawable="@drawable/samsungfiles" package="com.sec.android.app.myfiles" name="Samsung Files" />
     <icon drawable="@drawable/files" package="com.huawei.hidisk" name="Files" />
     <icon drawable="@drawable/appgallery" package="com.huawei.appmarket" name="App Gallery" />
     <icon drawable="@drawable/find_my_device" package="com.google.android.apps.adm" name="Find My Device" />
     <icon drawable="@drawable/firefox_beta" package="org.mozilla.firefox_beta" name="Firefox Beta" />
+    <icon drawable="@drawable/firefox" package="org.mozilla.focus" name="Firefox" />
     <icon drawable="@drawable/firefox" package="org.mozilla.fenix" name="Firefox Nightly" />
     <icon drawable="@drawable/firefox" package="org.mozilla.firefox" name="Firefox" />
     <icon drawable="@drawable/focus_todo" package="com.superelement.pomodoro" name="Focus To-Do" />
@@ -277,7 +278,7 @@
     <icon drawable="@drawable/rabo_wallet" package="nl.rabowallet" name="Rabo Wallet" />
     <icon drawable="@drawable/rabobank" package="nl.rabomobiel" name="rabobank" />
     <icon drawable="@drawable/recorder" package="com.google.android.apps.recorder" name="Recorder" />
-    <icon drawable="@drawable/nothing_recorder" package="com.google.android.apps.recorder" name="Nothing Recorder" />
+    <icon drawable="@drawable/nothing_recorder" package="com.nothing.soundrecorder" name="Nothing Recorder" />
     <icon drawable="@drawable/asusrecorder" package="com.asus.soundrecorder" name="Asus Recorder" />
     <icon drawable="@drawable/reddit" package="com.reddit.frontpage" name="Reddit" />
     <icon drawable="@drawable/relay" package="free.reddit.news" name="Relay" />
@@ -395,6 +396,7 @@
     <icon drawable="@drawable/files" package="com.oneplus.filemanager" name="Files" />
     <icon drawable="@drawable/tuya_smart" package="com.tuya.smart" name="Tuya Smart" />
     <icon drawable="@drawable/twitch" package="tv.twitch.bttvandroid.app" name="Twitch" />
+    <icon drawable="@drawable/twitch" package="tv.twitch.android.app" name="Twitch" />
     <icon drawable="@drawable/twitter" package="com.twitter.android.lite" name="Twitter" />
     <icon drawable="@drawable/twitter" package="com.twitter.android" name="Twitter" />
     <icon drawable="@drawable/unifi_network" package="com.ubnt.easyunifi" name="UniFi Network" />
@@ -558,4 +560,7 @@
     <icon drawable="@drawable/kustompro" package="org.kustom.widget.pro" name="KWGT Pro" />
     <icon drawable="@drawable/kustompro" package="org.kustom.wallpaper.pro" name="KLWP Pro" />
     <icon drawable="@drawable/kustompro" package="org.kustom.lockscreen.pro" name="KLCK Pro" />
+    <icon drawable="@drawable/oculus" package="com.oculus.twilight" name="Oculus" />
+    <icon drawable="@drawable/minecraft" package="com.mojang.minecraftpe" name="Minecraft" />
+    <icon drawable="@drawable/minecraft" package="net.kdt.pojavlaunch" name="Minecraft" />
 </icons>
