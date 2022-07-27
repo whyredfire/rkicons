@@ -207,6 +207,7 @@
     <icon drawable="@drawable/line" package="jp.naver.line.android" name="LINE" />
     <icon drawable="@drawable/linkedin" package="com.linkedin.android" name="LinkedIn" />
     <icon drawable="@drawable/magisk" package="com.topjohnwu.magisk" name="Magisk" />
+    <icon drawable="@drawable/magisk" package="ahoutx.alv" name="Magisk" />
     <icon drawable="@drawable/maps" package="com.google.android.apps.mapslite" name="Google Maps" />
     <icon drawable="@drawable/maps" package="com.google.android.apps.maps" name="Google Maps" />
     <icon drawable="@drawable/marindeck" package="online.hisubway.marindeck" name="MarinDeck" />
@@ -533,5 +534,28 @@
     <icon drawable="@drawable/mdgram" package="org.telegram.mdgram" name="MDGramYou" />
     <icon drawable="@drawable/cloudstream" package="com.lagradost.cloudstream3" name="Cloudstream" />
     <icon drawable="@drawable/cloudstream" package="com.lagradost.cloudstream3.prerelease" name="Cloudstream Beta" />
-    <icon drawable="@drawable/libretorrent" package="org.proninyaroslv.libretorrent" name="LibreTorrent" />
+    <icon drawable="@drawable/libretorrent" package="org.proninyaroslav.libretorrent" name="LibreTorrent" />
+    <icon drawable="@drawable/inpost" package="pl.inpost.inmobile" name="InPost Mobile" />
+    <icon drawable="@drawable/xkom" package="pl.xkom" name="x-kom" />
+    <icon drawable="@drawable/kustom" package="org.kustom.widget" name="KWGT" />
+    <icon drawable="@drawable/kustom" package="org.kustom.wallpaper" name="KLWP" />
+    <icon drawable="@drawable/kustom" package="org.kustom.lockscreen" name="KLCK" />
+    <icon drawable="@drawable/kustom" package="org.kustom.weather" name="Kustom Weather Plugin" />
+    <icon drawable="@drawable/kustom" package="org.kustom.unread" name="Kustom Unread Plugin" />
+    <icon drawable="@drawable/kustom" package="org.kustom.apkmaker" name="KAPK" />
+    <icon drawable="@drawable/steam" package="com.valvesoftware.android.steam.community" name="Steam" />
+    <icon drawable="@drawable/patreon" package="com.patreon.android" name="Patreon" />
+    <icon drawable="@drawable/bereal" package="com.bereal.ft" name="BeReal" />
+    <icon drawable="@drawable/apkextractor" package="com.ext.ui" name="Apk Extractor" />
+    <icon drawable="@drawable/artflow" package="com.bytestorm.artflow" name="ArtFlow" />
+    <icon drawable="@drawable/lightroom" package="com.adobe.lrmobile" name="Lightroom" />
+    <icon drawable="@drawable/deviceinfohw" package="ru.andr7e.deviceinfohw" name="Device Info HW" />
+    <icon drawable="@drawable/pokemongo" package="com.nianticlabs.pokemongo" name="Pokémon GO" />
+    <icon drawable="@drawable/sudoku" package="ee.dustland.android.dustlandsudoku" name="Sudoku" />
+    <icon drawable="@drawable/smartlife" package="com.tuya.smartlife" name="Smart Life" />
+    <icon drawable="@drawable/oledbuddy" package="me.mikecroall.oledbuddy" name="OLEDBuddy" />
+    <icon drawable="@drawable/realmelink" package="com.realme.link" name="Realme Link" />
+    <icon drawable="@drawable/kustompro" package="org.kustom.widget.pro" name="KWGT Pro" />
+    <icon drawable="@drawable/kustompro" package="org.kustom.wallpaper.pro" name="KLWP Pro" />
+    <icon drawable="@drawable/kustompro" package="org.kustom.lockscreen.pro" name="KLCK Pro" />
 </icons>
