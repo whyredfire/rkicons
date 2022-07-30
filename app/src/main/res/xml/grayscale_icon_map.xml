@@ -563,4 +563,5 @@
     <icon drawable="@drawable/oculus" package="com.oculus.twilight" name="Oculus" />
     <icon drawable="@drawable/minecraft" package="com.mojang.minecraftpe" name="Minecraft" />
     <icon drawable="@drawable/minecraft" package="net.kdt.pojavlaunch" name="Minecraft" />
+    <icon drawable="@drawable/pharmeasy" package="com.phonegap.rxpal" name="PharmEasy" />
 </icons>
