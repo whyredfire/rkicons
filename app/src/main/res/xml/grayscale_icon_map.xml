@@ -564,4 +564,27 @@
     <icon drawable="@drawable/minecraft" package="com.mojang.minecraftpe" name="Minecraft" />
     <icon drawable="@drawable/minecraft" package="net.kdt.pojavlaunch" name="Minecraft" />
     <icon drawable="@drawable/pharmeasy" package="com.phonegap.rxpal" name="PharmEasy" />
+    <icon drawable="@drawable/burgerking" package="com.burgerkingpl" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="com.emn8.mobilem8.nativeapp.bk" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="in.burgerking.android" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="ru.burgerking" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="com.bk.ch" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="com.nosmk.burgerking" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="com.skylinedynamics.bk" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="com.frakton.burgerking" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="it.burgerking.android" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="com.dom.burgerking" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="com.expremio.burgerking" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="bo.burgerking" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="burgerking.id.android" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="ni.burgerking" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="com.proacit.burgerkingcolombia" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="com.tapston.burgerking" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="re.burgerking.royaume" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="com.tillster.bk_kw_mobile" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="jp.co.burgerkingjapan" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="com.spoonstream.bklebanon" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="led.android.burgerkingisrael" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="com.burgerking.turk" name="Burger King" />
+    <icon drawable="@drawable/burgerking" package="com.burgerkingqatar.android" name="Burger King" />
 </icons>
