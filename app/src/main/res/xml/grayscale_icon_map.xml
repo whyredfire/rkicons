@@ -588,4 +588,5 @@
     <icon drawable="@drawable/burgerking" package="com.burgerking.turk" name="Burger King" />
     <icon drawable="@drawable/burgerking" package="com.burgerkingqatar.android" name="Burger King" />
     <icon drawable="@drawable/cameraxinfo" package="dev.zwander.cameraxinfo" name="CameraX Info" />
+    <icon drawable="@drawable/matlog" package="com.pluscubed.matlog" name="MatLog" />
 </icons>
