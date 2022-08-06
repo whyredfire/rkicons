@@ -589,4 +589,5 @@
     <icon drawable="@drawable/burgerking" package="com.burgerkingqatar.android" name="Burger King" />
     <icon drawable="@drawable/cameraxinfo" package="dev.zwander.cameraxinfo" name="CameraX Info" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matlog" name="MatLog" />
+    <icon drawable="@drawable/kdeconnect" package="org.kde.kdeconnect_tp" name="KDE Connect" />
 </icons>
