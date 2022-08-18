@@ -324,6 +324,7 @@
     <icon drawable="@drawable/snapchat" package="com.snapchat.android" name="Snapchat" />
     <icon drawable="@drawable/snapseed" package="com.niksoftware.snapseed" name="Snapseed" />
     <icon drawable="@drawable/solid_explorer" package="pl.solidexplorer2" name="Solid Explorer" />
+    <icon drawable="@drawable/solitaire" package="ee.dustland.android.solitaire" name="Solitaire" />
     <icon drawable="@drawable/sony_headphonesconnect" package="com.sony.songpal.mdr" name="Sony Headphones Connect" />
     <icon drawable="@drawable/soundcloud" package="com.soundcloud.android" name="SoundCloud" />
     <icon drawable="@drawable/spark_email" package="com.readdle.spark" name="Spark Email" />
