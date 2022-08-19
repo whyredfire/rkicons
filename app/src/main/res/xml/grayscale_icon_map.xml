@@ -415,6 +415,7 @@
     <icon drawable="@drawable/whatsapp" package="com.whatsapp" name="WhatsApp" />
     <icon drawable="@drawable/whatsapp" package="io.kuenzler.whatsappwebtogo" name="WhatsApp" />
     <icon drawable="@drawable/wifiman" package="com.ubnt.usurvey" name="WiFiman" />
+    <icon drawable="@drawable/wikipedia" package="org.wikipedia" name="Wikipedia" />
     <icon drawable="@drawable/wordweb" package="com.wordwebsoftware.android.wordweb" name="WordWeb" />
     <icon drawable="@drawable/xda" package="com.xda.labs" name="XDA" />
     <icon drawable="@drawable/keepass2android" package="keepass2android.keepass2android" name="Keepass2Android " />
