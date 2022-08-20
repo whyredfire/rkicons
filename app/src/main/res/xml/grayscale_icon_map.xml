@@ -401,6 +401,7 @@
     <icon drawable="@drawable/imdb" package="com.imdb.mobile" name="IMDb" />
     <icon drawable="@drawable/files" package="com.oneplus.filemanager" name="Files" />
     <icon drawable="@drawable/tuya_smart" package="com.tuya.smart" name="Tuya Smart" />
+    <icon drawable="@drawable/tv_time" package="com.tozelabs.tvshowtime" name="TV Time"/>
     <icon drawable="@drawable/twitch" package="tv.twitch.bttvandroid.app" name="Twitch" />
     <icon drawable="@drawable/twitch" package="tv.twitch.android.app" name="Twitch" />
     <icon drawable="@drawable/twitter" package="com.twitter.android.lite" name="Twitter" />
