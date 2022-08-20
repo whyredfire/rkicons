@@ -412,6 +412,7 @@
     <icon drawable="@drawable/vanced_youtube_music" package="com.vanced.android.apps.youtube.music" name="Vanced YouTube Music" />
     <icon drawable="@drawable/vi" package="com.mventus.selfcare.activity" name="Vi" />
     <icon drawable="@drawable/via_browser" package="mark.via.gp" name="Via Browser" />
+    <icon drawable="@drawable/viper4android" package="com.pittvandewitt.viperfx" name="Viper4Android FX"/>
     <icon drawable="@drawable/vivaldi" package="com.vivaldi.browser" name="Vivaldi" />
     <icon drawable="@drawable/vivaldi" package="com.vivaldi.browser.snapshot" name="Vivaldi" />
     <icon drawable="@drawable/vlc" package="org.videolan.vlc" name="VLC" />
