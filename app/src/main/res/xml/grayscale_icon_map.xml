@@ -127,6 +127,7 @@
     <icon drawable="@drawable/firefox" package="org.mozilla.focus" name="Firefox" />
     <icon drawable="@drawable/firefox" package="org.mozilla.fenix" name="Firefox Nightly" />
     <icon drawable="@drawable/firefox" package="org.mozilla.firefox" name="Firefox" />
+    <icon drawable="@drawable/fennec" package="org.mozilla.fennec_fdroid" name="fennec" />
     <icon drawable="@drawable/focus_todo" package="com.superelement.pomodoro" name="Focus To-Do" />
     <icon drawable="@drawable/fm_radio" package="com.caf.fmradio" name="FM Radio" />
     <icon drawable="@drawable/fm_radio" package="com.android.fmradio" name="FM Radio" />
@@ -162,7 +163,7 @@
     <icon drawable="@drawable/google_fi" package="com.google.android.apps.tycho" name="Google Fi" />
     <icon drawable="@drawable/google_fit" package="com.google.android.apps.fitness" name="Google Fit" />
     <icon drawable="@drawable/google_home" package="com.google.android.apps.chromecast.app" name="Google Home" />
-    <icon drawable="@drawable/google_keep" package="com.google.android.keep" name="Google Keep" />
+    <icon drawable="@drawable/keep" package="com.google.android.keep" name="Google Keep" />
     <icon drawable="@drawable/google_lens" package="com.google.ar.lens" name="Google Lens" />
     <icon drawable="@drawable/google_meet" package="com.google.android.apps.meetings" name="Google Meet" />
     <icon drawable="@drawable/google_news" package="com.google.android.apps.magazines" name="Google News" />
@@ -563,4 +564,6 @@
     <icon drawable="@drawable/oculus" package="com.oculus.twilight" name="Oculus" />
     <icon drawable="@drawable/minecraft" package="com.mojang.minecraftpe" name="Minecraft" />
     <icon drawable="@drawable/minecraft" package="net.kdt.pojavlaunch" name="Minecraft" />
+    <icon drawable="@drawable/zulip" package="com.zulipmobile" name="Zulip" />
+    <icon drawable="@drawable/k9" package="com.fsck.k9" name="K9" />
 </icons>
