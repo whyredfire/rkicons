@@ -607,4 +607,22 @@
     <icon drawable="@drawable/kdeconnect" package="org.kde.kdeconnect_tp" name="KDE Connect" />
     <icon drawable="@drawable/notion" package="notion.id" name="Notion" />
     <icon drawable="@drawable/where_is_my_train" package="com.whereismytrain.android" name="Where is my Train" />
+    <icon drawable="@drawable/app_lounge" package="foundation.e.apps" name="App Lounge" />
+    <icon drawable="@drawable/browser" package="foundation.e.browser" name="Browser" />
+    <icon drawable="@drawable/calendar" package="foundation.e.calendar" name="Calendar" />
+    <icon drawable="@drawable/camera" package="foundation.e.camera" name="Camera" />
+    <icon drawable="@drawable/fairemail" package="foundation.e.mail" name="Mail" />
+    <icon drawable="@drawable/messages" package="foundation.e.message" name="Message" />
+    <icon drawable="@drawable/notes" package="foundation.e.notes" name="Notes" />
+    <icon drawable="@drawable/tasks" package="foundation.e.tasks" name="Tasks" />
+    <icon drawable="@drawable/clock" package="com.android.deskclock" name="Clock" />
+    <icon drawable="@drawable/floccus" package="org.handmadeideas.floccus" name="floccus" />
+    <icon drawable="@drawable/recorder" package="org.lineageos.recorder" name="Recorder" />
+    <icon drawable="@drawable/music" package="org.lineageos.eleven" name="Music" />
+    <icon drawable="@drawable/joplin" package="net.cozic.joplin" name="Joplin" />
+    <icon drawable="@drawable/keepass" package="com.kunzisoft.keepass.libre" name="KeePassDX" />
+    <icon drawable="@drawable/keepass" package="com.kunzisoft.keepass.free" name="KeePassDX" />
+    <icon drawable="@drawable/protondrive" package="me.proton.android.drive" name="Proton Drive" />
+    <icon drawable="@drawable/newpipe" package="org.polymorphicshade.newpipe" name="NewPipe SponsorBlock" />
+    <icon drawable="@drawable/syncthing" package="com.github.catfriend1.syncthingandroid" name="Syncthing-Fork" />
 </icons>
