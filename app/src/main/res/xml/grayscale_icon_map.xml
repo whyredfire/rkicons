@@ -622,4 +622,7 @@
     <icon drawable="@drawable/joplin" package="net.cozic.joplin" name="Joplin" />
     <icon drawable="@drawable/keepass" package="com.kunzisoft.keepass.libre" name="KeePassDX" />
     <icon drawable="@drawable/keepass" package="com.kunzisoft.keepass.free" name="KeePassDX" />
+    <icon drawable="@drawable/protondrive" package="me.proton.android.drive" name="Proton Drive" />
+    <icon drawable="@drawable/newpipe" package="org.polymorphicshade.newpipe" name="NewPipe SponsorBlock" />
+    <icon drawable="@drawable/syncthing" package="com.github.catfriend1.syncthingandroid" name="Syncthing-Fork" />
 </icons>
