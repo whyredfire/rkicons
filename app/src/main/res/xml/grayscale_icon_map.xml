@@ -606,4 +606,5 @@
     <icon drawable="@drawable/matlog" package="com.pluscubed.matlog" name="MatLog" />
     <icon drawable="@drawable/kdeconnect" package="org.kde.kdeconnect_tp" name="KDE Connect" />
     <icon drawable="@drawable/notion" package="notion.id" name="Notion" />
+    <icon drawable="@drawable/where_is_my_train" package="com.whereismytrain.android" name="Where is my Train" />
 </icons>
