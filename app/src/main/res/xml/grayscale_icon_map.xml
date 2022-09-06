@@ -626,4 +626,5 @@
     <icon drawable="@drawable/protondrive" package="me.proton.android.drive" name="Proton Drive" />
     <icon drawable="@drawable/newpipe" package="org.polymorphicshade.newpipe" name="NewPipe SponsorBlock" />
     <icon drawable="@drawable/syncthing" package="com.github.catfriend1.syncthingandroid" name="Syncthing-Fork" />
+    <icon drawable="@drawable/darkpapers" package="com.dark.papers" name="DarkPapers" />
 </icons>
