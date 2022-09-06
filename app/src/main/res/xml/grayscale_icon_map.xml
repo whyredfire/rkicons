@@ -627,4 +627,6 @@
     <icon drawable="@drawable/newpipe" package="org.polymorphicshade.newpipe" name="NewPipe SponsorBlock" />
     <icon drawable="@drawable/syncthing" package="com.github.catfriend1.syncthingandroid" name="Syncthing-Fork" />
     <icon drawable="@drawable/darkpapers" package="com.dark.papers" name="DarkPapers" />
+    <icon drawable="@drawable/threema" package="ch.threema.app" name="Threema" />
+    <icon drawable="@drawable/threema" package="ch.threema.app.libre" name="Threema Libre" />
 </icons>
