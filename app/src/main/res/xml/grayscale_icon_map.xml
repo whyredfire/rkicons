@@ -629,4 +629,5 @@
     <icon drawable="@drawable/darkpapers" package="com.dark.papers" name="DarkPapers" />
     <icon drawable="@drawable/threema" package="ch.threema.app" name="Threema" />
     <icon drawable="@drawable/threema" package="ch.threema.app.libre" name="Threema Libre" />
+    <icon drawable="@drawable/mull" package="us.spotco.fennec_dos" name="Mull" />
 </icons>
