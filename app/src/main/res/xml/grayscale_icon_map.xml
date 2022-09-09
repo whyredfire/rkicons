@@ -630,4 +630,6 @@
     <icon drawable="@drawable/threema" package="ch.threema.app" name="Threema" />
     <icon drawable="@drawable/threema" package="ch.threema.app.libre" name="Threema Libre" />
     <icon drawable="@drawable/mull" package="us.spotco.fennec_dos" name="Mull" />
+    <icon drawable="@drawable/pdf_viewer" package="com.gsnathan.pdfviewer" name="Pdf Viewer Plus" />
+    <icon drawable="@drawable/pdf_viewer" package="foundation.e.pdfviewer" name="Pdf Viewer Plus" />
 </icons>
