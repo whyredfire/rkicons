@@ -632,4 +632,5 @@
     <icon drawable="@drawable/mull" package="us.spotco.fennec_dos" name="Mull" />
     <icon drawable="@drawable/pdf_viewer" package="com.gsnathan.pdfviewer" name="Pdf Viewer Plus" />
     <icon drawable="@drawable/pdf_viewer" package="foundation.e.pdfviewer" name="Pdf Viewer Plus" />
+    <icon drawable="@drawable/droid_ify" package="com.looker.droidify" name="Droid-ify" />
 </icons>
