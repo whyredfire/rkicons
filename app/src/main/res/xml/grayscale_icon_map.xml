@@ -633,4 +633,5 @@
     <icon drawable="@drawable/pdf_viewer" package="com.gsnathan.pdfviewer" name="Pdf Viewer Plus" />
     <icon drawable="@drawable/pdf_viewer" package="foundation.e.pdfviewer" name="Pdf Viewer Plus" />
     <icon drawable="@drawable/droid_ify" package="com.looker.droidify" name="Droid-ify" />
+    <icon drawable="@drawable/magic_earth" package="com.generalmagic.magicearth" name="Magic Earth" />
 </icons>
