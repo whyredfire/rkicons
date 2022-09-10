@@ -635,4 +635,5 @@
     <icon drawable="@drawable/droid_ify" package="com.looker.droidify" name="Droid-ify" />
     <icon drawable="@drawable/magic_earth" package="com.generalmagic.magicearth" name="Magic Earth" />
     <icon drawable="@drawable/qksms" package="com.moez.QKSMS" name="QKSMS" />
+    <icon drawable="@drawable/qr_reader" package="com.tomfong.simpleqr" name="Simple QR" />
 </icons>
