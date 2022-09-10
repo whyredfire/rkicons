@@ -639,4 +639,5 @@
     <icon drawable="@drawable/tailscale" package="com.tailscale.ipn" name="Tailscale" />
     <icon drawable="@drawable/foxmmm" package="com.fox2code.mmm.fdroid" name="Fox MMM" />
     <icon drawable="@drawable/insular" package="com.oasisfeng.island.fdroid" name="Insular" />
+    <icon drawable="@drawable/ffupdater" package="de.marmaro.krt.ffupdater" name="FFUpdater" />
 </icons>
