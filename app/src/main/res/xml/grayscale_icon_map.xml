@@ -637,4 +637,5 @@
     <icon drawable="@drawable/qksms" package="com.moez.QKSMS" name="QKSMS" />
     <icon drawable="@drawable/qr_reader" package="com.tomfong.simpleqr" name="Simple QR" />
     <icon drawable="@drawable/tailscale" package="com.tailscale.ipn" name="Tailscale" />
+    <icon drawable="@drawable/foxmmm" package="com.fox2code.mmm.fdroid" name="Fox MMM" />
 </icons>
