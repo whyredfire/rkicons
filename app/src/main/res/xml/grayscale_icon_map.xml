@@ -636,4 +636,5 @@
     <icon drawable="@drawable/magic_earth" package="com.generalmagic.magicearth" name="Magic Earth" />
     <icon drawable="@drawable/qksms" package="com.moez.QKSMS" name="QKSMS" />
     <icon drawable="@drawable/qr_reader" package="com.tomfong.simpleqr" name="Simple QR" />
+    <icon drawable="@drawable/tailscale" package="com.tailscale.ipn" name="Tailscale" />
 </icons>
