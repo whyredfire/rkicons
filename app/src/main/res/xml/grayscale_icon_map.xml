@@ -608,4 +608,5 @@
     <icon drawable="@drawable/notion" package="notion.id" name="Notion" />
     <icon drawable="@drawable/where_is_my_train" package="com.whereismytrain.android" name="Where is my Train" />
     <icon drawable="@drawable/zarchiver" package="ru.zdevs.zarchiver" name="ZArchiever" />
+    <icon drawable="@drawable/float_tube" package="com.xpp.tubeAssistant" name="Float Tube" />
 </icons>
