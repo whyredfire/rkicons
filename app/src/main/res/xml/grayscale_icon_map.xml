@@ -146,12 +146,16 @@
     <icon drawable="@drawable/gboard" package="com.google.android.inputmethod.latin.canary" name="Gboard" />
     <icon drawable="@drawable/gboard" package="com.google.android.inputmethod.latin" name="Gboard" />
     <icon drawable="@drawable/rboard" package="de.dertyp7214.rboardthememanager" name="Rboard Manager" />
+    <icon drawable="@drawable/rboard_patcher" package="de.dertyp7214.rboardpatcher" name="Rboard Patcher" />
+    <icon drawable="@drawable/rboard_creator" package="de.dertyp7214.rboardthemecreator" name="Rboard Creator" />
+    <icon drawable="@drawable/rboard_ime_test" package="de.dertyp7214.rboardimetester" name="Rboard IME Tester" />
     <icon drawable="@drawable/gcash" package="com.globe.gcash.android" name="GCash" />
     <icon drawable="@drawable/github" package="com.github.android" name="GitHub" />
     <icon drawable="@drawable/globeone" package="ph.com.globe.globeonesuperapp" name="GlobeOne" />
     <icon drawable="@drawable/gmail" package="com.google.android.gm.lite" name="Gmail" />
     <icon drawable="@drawable/gmail" package="com.google.android.gm" name="Gmail" />
     <icon drawable="@drawable/google_assistant" package="com.google.android.apps.googleassistant" name="Google Assistant" />
+    <icon drawable="@drawable/google_voice" package="com.google.android.apps.googlevoice" name="Google Voice" />
     <icon drawable="@drawable/google_authenticator" package="com.google.android.apps.authenticator2" name="Google Authenticator" />
     <icon drawable="@drawable/google_chat" package="com.google.android.apps.dynamite" name="Google Chat" />
     <icon drawable="@drawable/google_chrome_beta" package="com.chrome.beta" name="Google Chrome Beta" />
@@ -409,7 +413,7 @@
     <icon drawable="@drawable/twitter" package="com.twitter.android" name="Twitter" />
     <icon drawable="@drawable/unifi_network" package="com.ubnt.easyunifi" name="UniFi Network" />
     <icon drawable="@drawable/uphold" package="com.uphold.wallet" name="Uphold"/>
-    <icon drawable="@drawable/vanced_youtube_music" package="com.vanced.android.apps.youtube.music" name="Vanced YouTube Music" />
+    <icon drawable="@drawable/youtube_music" package="com.vanced.android.apps.youtube.music" name="YouTube Music" />
     <icon drawable="@drawable/vi" package="com.mventus.selfcare.activity" name="Vi" />
     <icon drawable="@drawable/via_browser" package="mark.via.gp" name="Via Browser" />
     <icon drawable="@drawable/viper4android" package="com.pittvandewitt.viperfx" name="Viper4Android FX"/>
@@ -568,6 +572,7 @@
     <icon drawable="@drawable/quickedit" package="com.rhmsoft.edit" name="QuickEdit" />
     <icon drawable="@drawable/deviceinfohw" package="ru.andr7e.deviceinfohw" name="Device Info HW" />
     <icon drawable="@drawable/pokemongo" package="com.nianticlabs.pokemongo" name="Pokémon GO" />
+    <icon drawable="@drawable/pokemongo" package="com.nianticlabs.pokemongo.ares" name="Pokémon GO" />
     <icon drawable="@drawable/sudoku" package="ee.dustland.android.dustlandsudoku" name="Sudoku" />
     <icon drawable="@drawable/smartlife" package="com.tuya.smartlife" name="Smart Life" />
     <icon drawable="@drawable/oledbuddy" package="me.mikecroall.oledbuddy" name="OLEDBuddy" />
@@ -609,4 +614,6 @@
     <icon drawable="@drawable/where_is_my_train" package="com.whereismytrain.android" name="Where is my Train" />
     <icon drawable="@drawable/zarchiver" package="ru.zdevs.zarchiver" name="ZArchiever" />
     <icon drawable="@drawable/float_tube" package="com.xpp.tubeAssistant" name="Float Tube" />
+    <icon drawable="@drawable/dodocodes" package="com.dodocodes.mobile" name="DodoCodes" />
+    <icon drawable="@drawable/revolt" package="chat.revolt.app.twa" name="Revolt" />
 </icons>
