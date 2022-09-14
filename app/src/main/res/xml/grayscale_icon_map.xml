@@ -617,4 +617,5 @@
     <icon drawable="@drawable/dodocodes" package="com.dodocodes.mobile" name="DodoCodes" />
     <icon drawable="@drawable/revolt" package="chat.revolt.app.twa" name="Revolt" />
     <icon drawable="@drawable/organic_maps" package="app.organicmaps" name="Organic Maps" />
+    <icon drawable="@drawable/ticktick" package="com.ticktick.task" name="TickTick" />
 </icons>
