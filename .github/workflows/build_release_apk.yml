@@ -31,15 +31,6 @@ jobs:
         run: chmod +x gradlew
       - name: Build release APK
         run: ./gradlew assembleRelease
-      - name: Sign release APK
-        uses: r0adkll/sign-android-release@v1
-        id: sign-release-apk
-        with:
-          releaseDirectory: app/build/outputs/apk/release
-          signingKeyBase64: ${{ secrets.KEYSTORE }}
-          alias: ${{ secrets.KEY_ALIAS }}
-          keyStorePassword: ${{ secrets.KEYSTORE_PASSWORD }}
-          keyPassword: ${{ secrets.KEY_PASSWORD }}
       - name: Rename artifact
         run: |
           oldArtifactPath="${{ steps.sign-release-apk.outputs.signedReleaseFile }}"
@@ -73,12 +64,3 @@ jobs:
         with:
           name: Release APK
           path: artifacts/release-apk
-      - name: Send notifications
-        run: python send_notifications.py
-        env:
-          GITHUB_EVENT_BEFORE: ${{ github.event.before }}
-          TELEGRAM_CI_BOT_TOKEN: ${{ secrets.TELEGRAM_CI_BOT_TOKEN }}
-          TELEGRAM_CI_CHANNEL_ID: ${{ secrets.TELEGRAM_CI_CHANNEL_ID }}
-          TELEGRAM_TEAM_GROUP_ID: ${{ secrets.TELEGRAM_TEAM_GROUP_ID }}
-          ARTIFACT_DIRECTORY: artifacts/release-apk
-          GITHUB_REF: ${{ github.ref }}
