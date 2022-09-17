@@ -618,4 +618,5 @@
     <icon drawable="@drawable/revolt" package="chat.revolt.app.twa" name="Revolt" />
     <icon drawable="@drawable/organic_maps" package="app.organicmaps" name="Organic Maps" />
     <icon drawable="@drawable/ticktick" package="com.ticktick.task" name="TickTick" />
+    <icon drawable="@drawable/clash_of_clans" package="com.supercell.clashofclans" name="Clash Of Clans" />
 </icons>
