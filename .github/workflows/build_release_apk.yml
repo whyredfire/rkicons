@@ -31,12 +31,6 @@ jobs:
         run: chmod +x gradlew
       - name: Build release APK
         run: ./gradlew assembleRelease
-      - name: Rename artifact
-        run: |
-          oldArtifactPath="${{ steps.sign-release-apk.outputs.signedReleaseFile }}"
-          newArtifactPath="${oldArtifactPath%'-unsigned-signed.apk'}.apk"
-          echo "ARTIFACT_PATH=$newArtifactPath" >> $GITHUB_ENV
-          mv "$oldArtifactPath" "$newArtifactPath"
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
